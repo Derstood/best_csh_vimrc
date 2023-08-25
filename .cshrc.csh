@@ -1,3 +1,5 @@
+set prompt="%W-%D %P @%n %//"
+
 alias vc 'gvim ~/.cshrc'
 alias sc 'source ~/.cshrc'
     
@@ -20,3 +22,4 @@ alias . 'cd ..'
 alias .. 'cd ../..'
 alias . 'cd ../../..'
     
+alias mydu 'source ~/mydu.csh'
